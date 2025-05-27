@@ -1,0 +1,33 @@
+[
+    {
+        "Name": "Dovi",
+        "Address": {
+            "City": "Netanya",
+            "Street": {
+                "Name": "spigelman",
+                "Nummber": 8
+            }
+        }
+    }
+    ,{
+        "Name": "Adi",
+        "Address": {
+            "City": "Netanya",
+            "Street": {
+                "Name": "hashiva",
+                "Number": 5
+            }
+        }
+    },
+    {
+        "Name": "Adi",
+        "Address": {
+            "City": "Netanya",
+            "Street": {
+                "Name": "spigelman",
+                "Number": 5
+            }
+        }
+    }
+
+]

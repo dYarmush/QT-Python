@@ -3,6 +3,7 @@ sorted = grades.sort
 
 
 print(sum(grades))
+
 # prints length of the list  starts from 1
 print(len(grades))
 
